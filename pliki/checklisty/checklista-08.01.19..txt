@@ -1,0 +1,37 @@
+Weryfikacja	Potencjalna Szansa	Kontakt Handlowy	Godzina
+Osoba Trzecia	Potencjalna Wystawiona	WystawionoKH	08:13
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	08:18
+Konto Umowy	Soft 	WystawionoKH	08:39
+Konto Umowy	Soft 	WystawionoKH	08:57
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	09:12
+Brak Konta Umowy	Potencjalna Wystawiona Wczeœniej	KH Wystawiony Wczeœniej	09:12
+Brak Konta Umowy	Potencjalna Wystawiona Wczeœniej	KH Wystawiony Wczeœniej	09:17
+Konto Umowy	Soft 	WystawionoKH	09:25
+Konto Umowy	Potencjalna Wystawiona Wczeœniej	WystawionoKH	09:36
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	09:41
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	09:46
+Konto Umowy	Soft 	WystawionoKH	09:55
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	09:59
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	10:08
+Konto Umowy	Soft 	WystawionoKH	10:13
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	10:21
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	10:27
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	10:33
+Konto Umowy	Soft 	WystawionoKH	11:03
+Osoba Trzecia	Potencjalna Wystawiona	WystawionoKH	11:07
+Konto Umowy	Soft 	WystawionoKH	11:14
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	11:16
+Brak Konta Umowy	Potencjalna Wystawiona Wczeœniej	KH Wystawiony Wczeœniej	11:43
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	11:44
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	11:50
+Osoba Trzecia	Potencjalna Wystawiona	WystawionoKH	11:55
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	12:00
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	12:08
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	12:14
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	12:19
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	12:32
+Osoba Trzecia	Potencjalna Wystawiona	WystawionoKH	12:49
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	13:00
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	13:08
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	13:21
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	13:38

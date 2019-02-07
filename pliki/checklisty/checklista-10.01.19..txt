@@ -1,0 +1,28 @@
+Weryfikacja	Potencjalna Szansa	Kontakt Handlowy	Godzina
+Osoba Trzecia	Potencjalna Wystawiona	WystawionoKH	08:05
+Konto Umowy	Soft Soft 	WystawionoKH	08:21
+Osoba Trzecia	Potencjalna Wystawiona	WystawionoKH	08:34
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	08:45
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	08:57
+Konto Umowy	Soft 	WystawionoKH	09:04
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	09:19
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	09:24
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	09:27
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	10:04
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	10:30
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	10:35
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	10:39
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	10:43
+Konto Umowy	Soft 	WystawionoKH	10:52
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	11:05
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	11:51
+Osoba Trzecia	Potencjalna Wystawiona	WystawionoKH	12:13
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	12:18
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	12:23
+Konto Umowy	Soft Soft 	WystawionoKH	12:31
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	12:34
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	12:41
+Osoba Trzecia	Potencjalna Wystawiona	WystawionoKH	13:09
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	13:16
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	13:24
+Konto Umowy	Potencjalna Wystawiona Wczeœniej	WystawionoKH	13:40

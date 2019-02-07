@@ -1,0 +1,5 @@
+Weryfikacja	Potencjalna Szansa	Kontakt Handlowy	Godzina
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	09:27
+Osoba Trzecia	Potencjalna Wystawiona	WystawionoKH	09:46
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	10:25
+Konto Umowy	Soft Soft Soft 	WystawionoKH	10:51

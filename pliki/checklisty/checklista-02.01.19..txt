@@ -1,0 +1,47 @@
+Weryfikacja	Potencjalna Szansa	Kontakt Handlowy	Godzina
+Konto Umowy	Soft 	WystawionoKH	08:15
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	08:23
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	08:27
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	08:33
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	08:40
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	08:43
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	08:48
+Konto Umowy	Soft 	WystawionoKH	09:10
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	09:11
+	Potencjalna Wystawiona	WystawionoKH	09:14
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	09:19
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	09:20
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	09:23
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	09:28
+Konto Umowy	Soft 	WystawionoKH	09:42
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	09:43
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	09:46
+	Potencjalna Wystawiona	WystawionoKH	09:48
+Konto Umowy	Soft 	WystawionoKH	09:58
+Brak Konta Umowy	Potencjalna Wystawiona	KH Wystawiony Wczeœniej	10:00
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	10:10
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	10:16
+Konto Umowy	Soft 	WystawionoKH	10:25
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	10:46
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	10:51
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	10:58
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	11:01
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	11:03
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	11:08
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	11:10
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	11:15
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	11:59
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	12:20
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	12:24
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	12:31
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	12:39
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	13:02
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	13:07
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	13:11
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	13:23
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	13:28
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	13:32
+Osoba Trzecia	Potencjalna Wystawiona	WystawionoKH	13:38
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	13:47
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	13:50
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	13:56

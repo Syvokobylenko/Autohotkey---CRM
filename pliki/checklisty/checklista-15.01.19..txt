@@ -1,0 +1,3 @@
+Weryfikacja	Potencjalna Szansa	Kontakt Handlowy	Godzina
+Konto Umowy	Potencjalna Wystawiona	WystawionoKH	09:17
+Brak Konta Umowy	Potencjalna Wystawiona	WystawionoKH	11:06
